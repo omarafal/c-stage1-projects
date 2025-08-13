@@ -1,10 +1,9 @@
 /*
 Simple File Encryption Tool
-Description: Read a file, encrypt text using Caesar Cipher or XOR, write back to a file.
+Description: Read a file, encrypt text using Caesar Cipher, write back to a file.
 
-Concepts: File I/O, character manipulation, bitwise operations.
+Concepts: File I/O, character manipulation.
 */
-
 
 #include "fileEnc.h"
 
