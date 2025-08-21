@@ -1,4 +1,4 @@
-This repository contains my first set of C projects — small programs I built after learning the fundamentals of C.\
+This repository contains my first set of C projects; small programs I built after learning the fundamentals of C.\
 I call this Stage 1 because it’s the first stepping stone in my C programming journey.
 
 The goal of this repo is to practice:
